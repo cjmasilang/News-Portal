@@ -18,6 +18,6 @@
 <script src=" {{ asset( 'public/assets/js/color-settings.js') }} "></script>
 
 <!-- Disqus Comment-->
-<script id="dsq-count-scr" src="//ehssportal.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//newsportal.disqus.com/count.js" async></script>
 </body>
 </html>
