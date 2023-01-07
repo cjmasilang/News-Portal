@@ -1,9 +1,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <meta name="description" content="EHSS SYSTEM">
+    <meta name="description" content="News Portal">
     <meta name="keywords" content="">
-    <meta name="author" content="EHSS SYSTEM">
+    <meta name="author" content="cjmm">
     <meta name="robots" content="noindex, nofollow">
     <meta name="csrf-token"  {{ csrf_token() }}>
     <title>@yield('title')</title>
