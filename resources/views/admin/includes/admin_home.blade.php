@@ -21,7 +21,7 @@
 				</a>
 
                 <div class="page-title-box">
-					<h3>EHSS SYSTEM</h3>
+					<h3>News Portal</h3>
                 </div>
 
 
